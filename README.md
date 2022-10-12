@@ -4,11 +4,10 @@
 
 ## I'm a Student on Hacettepe 👨‍🎓, C,C# and Python Developer 👨‍💻, Musician 🎶!
 - 🔭 I’m currently working on learn new programing language.
-- 👨‍🎓 I’m currently learning 
 - 👯 I love every programing language but my favorite is C#
 - 👌 I can use C C++ C# and Python. 
 - 🧠 I like to work in the field of artificial intelligence. That's why I'm learning tensorflow
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 cycling 🚴‍♀️ and playing guitar 🎸
+- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 cycling 🚴‍♀️ and play guitar 🎸
 
 <br />
 <br />
