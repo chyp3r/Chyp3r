@@ -1,23 +1,24 @@
-# Hi Everyone 👋
+# Herkese Selamlar 👋
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Student on Hacettepe 👨‍🎓, C,C# and Python Developer 👨‍💻, Musician 🎶!
-- 🔭 I’m currently working on learn new programing language.
-- 👯 I love every programing language but my favorite is C#
-- 👌 I can use C C++ C# and Python. 
-- 🧠 I like to work in the field of artificial intelligence. That's why I'm learning tensorflow
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 cycling 🚴‍♀️ and play guitar 🎸
+## Hacettepe öğrencisi 👨‍🎓, C,C# ve Python Geliştiricisi 👨‍💻, ve Gitarist 🎶!
+- 🔭 Şu an genel olarak yeni programlama dilleri öğreniyorum.
+- 👯 Favori dilim ve en çok kullanmayı sevdiğim dil C#.
+- 👌 Python C C++ C# ile projeler geliştiriyorum.
+- 🧠 Yapay Zeka ve Makine Öğrenmesi amacıyla Python'da Tensorflow kullanıyorum.
+- 🎮 Kendi oyunumu geliştirmek istiyorum. Bu nedenle Unity ve C# kullanımını öğreniyorum.
+- ⚡ Kitap okumayı, yüzmeyi, gitar çalmayı, basketbol oynamayı ve satranç oynamayı severim. 
 
 <br />
 <br />
 
-## Some Statistics
-
+## Biraz İstatistik
+<p align="center">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Chyp3r&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/> 
 <br />
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chyp3r&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
-
+</p>
 <br />
 
 
