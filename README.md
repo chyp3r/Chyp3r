@@ -4,9 +4,9 @@
 
 ## Hacettepe öğrencisi 👨‍🎓, C,C# ve Python Geliştiricisi 👨‍💻, ve Gitarist 🎶!
 - 🔭 Şu an genel olarak yeni programlama dilleri öğreniyorum.
-- 👯 Favori dilim ve en çok kullanmayı sevdiğim dil C#.
+- 👯 Favori dilim ve en çok kullanmayı sevdiğim dil Python.
 - 👌 Python C C++ C# ile projeler geliştiriyorum.
-- 🧠 Yapay Zeka ve Makine Öğrenmesi amacıyla Python'da Tensorflow kullanıyorum.
+- 🧠 Yapay Zeka ve Makine Öğrenmesi amacıyla Python'da Tensorflow ve Pytorch kullanıyorum.
 - 🎮 Kendi oyunumu geliştirmek istiyorum. Bu nedenle Unity ve C# kullanımını öğreniyorum.
 - ⚡ Kitap okumayı, yüzmeyi, gitar çalmayı, basketbol oynamayı ve satranç oynamayı severim. 
 
