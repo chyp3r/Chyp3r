@@ -15,8 +15,7 @@
 
 <h2 align="center">Biraz İstatistik 🥼</h3>
 <p align="center">
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Chyp3r&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
-</p>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chyp3r&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/></p>
 <br />
 
 
