@@ -2,7 +2,6 @@
 
 # Merhaba, Ben Gökdeniz 👋
 
-## Gökdeniz Kuruca
 ### Hacettepe Üniversitesi Bilgisayar Mühendisliği 👨‍🎓 | AI & Software Developer 👨‍💻
 
 ## GitHub İstatistikleri 📊
