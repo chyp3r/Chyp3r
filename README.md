@@ -6,7 +6,7 @@
 
 <h2 align="center">GitHub İstatistikleri 📊</h2>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chyp3r&show_icons=true&locale=tr&layout=compact&langs_count=8&theme=algolia" alt="Gökdeniz Kuruca Diller"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Chyp3r&show_icons=true&locale=tr&layout=compact&langs_count=8&theme=algolia" alt="Gökdeniz Kuruca"/>
 </p>
 
 ### 📫 İletişim
