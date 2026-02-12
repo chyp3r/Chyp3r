@@ -4,7 +4,7 @@
 
 ## Gökdeniz Kuruca | Hacettepe Üniversitesi 👨‍🎓 | AI Geliştiricisi👨‍💻
 - 🔭 Şu anda **Python, TensorFlow ve PyTorch** kullanarak **yapay zeka ve makine öğrenimi projeleri** üzerinde çalışıyorum.
-- 🏆 **Teknofest 2024 – Sağlık Alanında Yapay Zeka Sunumu En İyi Ödülü**
+- 🏆 **Teknofest 2024 Sağlıkta Yapay Zeka En İyi Sunum Ödülü**
 - 👨‍💻 Yazılım geliştirme projelerinde **C, C++, C#, Swift, Dart, Javascript, R, Java ve Python** dillerinde deneyimliyim.
   
 <br />
