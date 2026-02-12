@@ -12,8 +12,8 @@
 
 <h2 align="center">GitHub 📊</h2>
 <p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Chyp3r&show_icons=true&locale=tr&layout=compact&langs_count=8&theme=algolia" alt="Gökdeniz Kuruca" />
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Chyp3r&show_icons=true&locale=tr&layout=compact&langs_count=8&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chyp3r&show_icons=true&locale=tr&theme=algolia" />
 </p>
 <br />
 
