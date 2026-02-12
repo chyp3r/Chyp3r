@@ -2,22 +2,8 @@
 
 # Merhaba, Ben Gökdeniz 👋
 
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" alt="Coding GIF" />
-
 ## Gökdeniz Kuruca
 ### Hacettepe Üniversitesi Bilgisayar Mühendisliği 👨‍🎓 | AI & Software Developer 👨‍💻
-
----
-
-### 🚀 Hakkımda
-
-Şu anda **Turkcell bünyesinde Deep Learning Developer Intern** olarak görev alıyor, yapay zeka ve yazılım geliştirme alanındaki tutkumu profesyonel projelere dönüştürüyorum.
-
-🤖 **Odak Noktam:** Multi-Agent Sistemler, RAG ve LLM mimarileri.
-🛠️ **Teknolojiler:** Python, PyTorch, LangChain, Docker ve Flutter.
-🏆 **Başarı:** Teknofest 2024 Sağlıkta Yapay Zeka - "En İyi Sunum Ödülü".
-
----
 
 ## GitHub İstatistikleri 📊
 
