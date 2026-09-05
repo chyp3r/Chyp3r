@@ -3,9 +3,12 @@
 <img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Gökdeniz Kuruca | Hacettepe Üniversitesi 👨‍🎓 | AI Geliştiricisi👨‍💻
-- 🔭 Şu anda **Python, TensorFlow ve PyTorch** kullanarak **yapay zeka ve makine öğrenimi projeleri** üzerinde çalışıyorum.
+- 🔭 Şu anda **LLM ve yapay zeka ajanları** üzerinde çalışıyorum.
+- 🏆 **AA Medya Teknolojileri Hackathonu Türkiye 1.**
+- 🏆 **T3 KAMP+ Hackathonu Türkiye 1.**
+- 🏆 **HAVELSAN KAMP+ Hackathonu Türkiye 2.**
 - 🏆 **Teknofest 2024 Sağlıkta Yapay Zeka En İyi Sunum Ödülü**
-- 👨‍💻 Yazılım geliştirme projelerinde **C, C++, C#, Swift, Dart, Javascript, R, Java ve Python** dillerinde deneyimliyim.
+- 👨‍💻 Yazılım geliştirme projelerinde **Python, Java, Swift, Dart, Javascript, R, C, C++ ve C#** dillerinde deneyimliyim.
   
 <br />
 <br />
