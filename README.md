@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=220&section=header&text=Gökdeniz%20Kuruca&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Developer%20%7C%20LLMs%20%7C%20AI%20Agents%20%7C%20RAG&descAlignY=60&descSize=18" width="100%"/>
 
-<a href="https://github.com/Chyp3r">
-<img src="https://komarev.com/ghpvc/?username=Chyp3r&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
-</a>
-
 <a href="https://github.com/Chyp3r?tab=followers">
 <img src="https://img.shields.io/github/followers/Chyp3r?style=flat-square&color=2563EB&label=FOLLOWERS" />
 </a>
