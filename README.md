@@ -44,8 +44,9 @@ My current focus is on **agentic systems, retrieval-augmented generation, LLM ap
 | Achievement | Result |
 |:---|:---:|
 | 🥇 **AA Medya Teknolojileri Hackathonu** | **Türkiye 1st** |
-| 🥇 **T3 KAMP+ Hackathonu** | **Türkiye 1st** |
-| 🥈 **HAVELSAN KAMP+ Hackathonu** | **Türkiye 2nd** |
+| 🥇 **TEKNOFEST 2026 Yapay Zeka Dil Ajanları** | **Türkiye 3rd** |
+| 🥇 **T3 KAMP+ Hackathon** | **Türkiye 1st** |
+| 🥈 **HAVELSAN KAMP+ Hackathon** | **Türkiye 2nd** |
 | 🏅 **TEKNOFEST 2024 Sağlıkta Yapay Zeka** | **Best Presentation Award** |
 | 🏅 **DENEYAP** | **1st in 11 Different Project Festivals.** |
 
