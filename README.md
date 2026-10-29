@@ -10,7 +10,7 @@
 
 <br>
 
-# 👋 Hi, I'm Gökdeniz
+# 👋 Hi, I'm Gökdeniz 
 
 **Computer Engineering @ Hacettepe University**  
 **AI Developer focused on LLMs, AI Agents and Retrieval-Augmented Generation**
